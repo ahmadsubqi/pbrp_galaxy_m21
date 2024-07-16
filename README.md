@@ -5,7 +5,7 @@ For building TWRP for Samsung Galaxy M21 Only
 
 | Device       | Samsung Galaxy M21 (SM-M215F)                       |
 | -----------: | :---------------------------------------------- |
-| SoC          | Exynoss 9611 (10 nm)                            |
+| SoC          | Exynos 9611 (10 nm)                            |
 | CPU          | Octa-core (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)            |
 | GPU          | Mali-G72 MP3                                     |
 | Memory       | 4GB / 6GM RAM                         |
