@@ -1,3 +1,6 @@
+# Release name
+PRODUCT_RELEASE_NAME := m21
+
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 
@@ -8,7 +11,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 $(call inherit-product, device/samsung/m21/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := omni_m21
+PRODUCT_NAME := pb_m21
 PRODUCT_DEVICE := m21
 PRODUCT_MODEL := SM-M215F
 PRODUCT_BRAND := samsung
